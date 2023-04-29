@@ -31,19 +31,21 @@ ShowWordCount: false
 ShowRssButtonInSectionTermList: false
 UseHugoToc: false
 ---
-## AOSP Mods
+## モジュール
+
+### AOSP Mods
 
 [AOSP Mods](https://github.com/siavash79/AOSPMods/releases)
 
-## DualGuard
+### DualGuard
 
 [DualGuard](https://github.com/Mikotwa/DualGuard/releases)
 
-## Hide My Applist
+### Hide My Applist
 
 [Hide My Applist](https://github.com/Dr-TSNG/Hide-My-Applist/releases)
 
-## Pixelify Google Photos
+### Pixelify Google Photos
 
 [無料・画質劣化なし・容量無制限で写真をバックアップする【Googleフォト】](https://matechan.com/blog/unlimit_photo/)
 
@@ -51,16 +53,16 @@ UseHugoToc: false
 
 [Pixelify Google Photos](https://github.com/BaltiApps/Pixelify-Google-Photos/releases)
 
-## Tsubonofuta
+### Tsubonofuta
 
 [Tsubonofuta](https://github.com/AioiLight/Tsubonofuta)
 
-## TwiFucker
+### TwiFucker
 
 [【TwiFucker】Twitter for Androidの広告を消し去るXposedモジュール](https://matechan.com/blog/twifucker/)
 
 <iframe class="hatenablogcard" style="width:100%;height:155px;margin:15px 0;" title="【TwiFucker】Twitter for Androidの広告を消し去るXposedモジュール" src="https://hatenablog-parts.com/embed?url=https://matechan.com/blog/twifucker/" franeborder="0" scrolling="no"></iframe>
 
-## UpdateLocker
+### UpdateLocker
 
 [UpdateLocker](https://github.com/Xposed-Modules-Repo/ru.mike.updatelocker/releases)
