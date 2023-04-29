@@ -31,8 +31,6 @@ ShowWordCount: false
 ShowRssButtonInSectionTermList: false
 UseHugoToc: false
 ---
-![Thumbnail](https://lh3.googleusercontent.com/xtyCSErEjslu-g6Bn8MH4b9i0hCj0GlvYIq-rZWkYxS2a9XSQsJ-pRiErw1qSk4OpQet6obStMjD2Ed2x4RkV1NmT6tna0J_ayUjCJ_P23dn75ditKdRrEIt3dbDXBXcpx8wAwdnZK8=w2400)
-
 ## AOSP Mods
 
 [AOSP Mods](https://github.com/siavash79/AOSPMods/releases)
